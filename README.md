@@ -1,4 +1,4 @@
-# Tencent Map Mini Program Skills
+# tencentamp-miniprogram-skill
 
 [中文文档](README_zh.md)
 
@@ -15,8 +15,8 @@ This repository provides AI assistant **Skills** for Tencent Map development in 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/TencentLBS/TencentMap_miniprogram_skills.git
-cd TencentMap_miniprogram_skills
+git clone https://github.com/TencentLBS/tencentmap-miniprogram-skill.git
+cd tencentmap-miniprogram-skill
 ```
 
 ### 2. Register the skill with your AI assistant

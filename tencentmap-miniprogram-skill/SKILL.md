@@ -5,7 +5,7 @@ description:
 version: 1.0.0
 ---
 
-# 腾讯地图微信小程序开发技能
+# tencentmap-miniprogram-skill
 
 帮助用户在微信小程序中实现地图功能开发，包含地图组件、位置服务、地图控制和后端服务能力。
 

@@ -15,8 +15,8 @@
 ### 1. 克隆本仓库
 
 ```bash
-git clone https://github.com/TencentLBS/TencentMap_miniprogram_skills.git
-cd TencentMap_miniprogram_skills
+git clone https://github.com/TencentLBS/tencentmap-miniprogram-skill.git
+cd tencentmap-miniprogram-skill
 ```
 
 ### 2. 将 Skill 注册到你的 AI 助手
