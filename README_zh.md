@@ -1,4 +1,4 @@
-# 腾讯地图小程序 Skills
+# 腾讯地图小程序开发技能
 
 [English Documentation](README.md)
 
@@ -58,7 +58,7 @@ cd tencentmap-miniprogram-skill
 
 ```
 .
-├── tencentmap-miniprogram-skill/          # 腾讯地图小程序 Skill
+├── tencentmap-miniprogram-skill/          # 腾讯地图小程序开发技能
 │   ├── SKILL.md               # Skill 入口与索引
 │   ├── quick_start_and_best_practices.md  # 快速开始指南与最佳实践
 │   ├── assets/                # 示例项目和 SDK 库
