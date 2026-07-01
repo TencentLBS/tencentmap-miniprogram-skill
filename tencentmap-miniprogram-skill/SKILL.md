@@ -2,7 +2,7 @@
 name: tencentmap-miniprogram-skill
 description: 
   此技能提供微信小程序地图开发的完整指导，包括地图组件使用、位置服务、标记点管理、路线规划、地理编码、POI搜索、点聚合和可视化图层等功能。当用户需求涉及微信小程序地图功能开发（如 map 组件、marker、callout、polyline、polygon、circle、地图、点标记、折线、多边形、圆形、弧线、定位、导航、路线规划、POI搜索、地理编码、点聚合、热力图、腾讯地图 SDK 等）时，应加载此技能。适用平台：微信小程序。
-version: 1.0.1
+version: 1.0.2
 ---
 
 # 腾讯地图小程序开发技能
@@ -248,8 +248,8 @@ cat assets/examples/minicode-marker/index/index.js
 ### 腾讯位置服务 SDK
 
 1. **申请Key**：
-   - 必须在腾讯位置服务官网申请密钥
-   - 申请地址：https://lbs.qq.com/dev/console/key/manage
+   - 前往官网注册正式 Key：https://lbs.qq.com/dev/console/key/manage
+   - 或通过 tempkey 流程申请临时体验 Key（手机验证，14 天有效），用户同意后读取 `tempkey-guide.md` 按其中步骤执行
 
 2. **商业授权**：
    - 商业使用需要授权（政府公共事务及公益组织除外）
